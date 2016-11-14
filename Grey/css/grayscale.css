@@ -20,7 +20,7 @@ h3,
 h4,
 h5,
 h6 {
-  margin: 20px 0 35px;
+  margin: 4% 0;
   text-transform: uppercase;
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: 700;
@@ -68,7 +68,24 @@ blockquote {
 .clear-it {
 	clear:both;
 	}
-	
+
+.service-block {
+  margin: 4% 0;
+}
+
+.pace-kinetics {
+  background: url(../img/testimonial1.jpg) no-repeat center center scroll;
+}
+
+.fleabites {
+  background: url(../img/testimonial2.jpg) no-repeat center center scroll;
+}
+
+.pipelineplumbing {
+  background: url(../img/testimonial3.jpg) no-repeat center center scroll;
+}
+
+
 .light {
   font-weight: 400;
 }
@@ -252,17 +269,7 @@ blockquote {
   -o-background-size: cover;
 }
 
-.pace-kinetics {
-  background: url(../img/testimonial1.jpg) no-repeat center center scroll;
-}
 
-.fleabites {
-  background: url(../img/testimonial2.jpg) no-repeat center center scroll;
-}
-
-.pipelineplumbing {
-  background: url(../img/testimonial3.jpg) no-repeat center center scroll;
-}
 
 #map {
   width: 100%;
