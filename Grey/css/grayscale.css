@@ -62,7 +62,7 @@ blockquote {
 }
 
 .carousel-inner>.item>a>img, .carousel-inner>.item>img, .img-responsive, .thumbnail a>img, .thumbnail>img {
-    margin: 0 auto;
+    margin: 4% auto 1%;
 }
 
 .clear-it {
