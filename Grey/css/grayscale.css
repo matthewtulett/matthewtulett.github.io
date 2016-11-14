@@ -70,19 +70,7 @@ blockquote {
 	}
 
 .service-block {
-  margin: 4% 0;
-}
-
-.pace-kinetics {
-  background: url(../img/testimonial1.jpg) no-repeat center center scroll;
-}
-
-.fleabites {
-  background: url(../img/testimonial2.jpg) no-repeat center center scroll;
-}
-
-.pipelineplumbing {
-  background: url(../img/testimonial3.jpg) no-repeat center center scroll;
+  margin: 4% auto;
 }
 
 
@@ -257,6 +245,7 @@ blockquote {
 .content-section {
   padding-top: 100px;
 }
+
 .testimonial-section {
   width: 100%;
   padding: 50px 0;
@@ -269,7 +258,17 @@ blockquote {
   -o-background-size: cover;
 }
 
+.pace-kinetics {
+  background: url(../img/testimonial1.jpg) no-repeat center center scroll;
+}
 
+.fleabites {
+  background: url(../img/testimonial2.jpg) no-repeat center center scroll;
+}
+
+.pipelineplumbing {
+  background: url(../img/testimonial3.jpg) no-repeat center center scroll;
+}
 
 #map {
   width: 100%;
