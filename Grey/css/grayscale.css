@@ -61,6 +61,14 @@ blockquote {
     border-left: none; 
 }
 
+.carousel-inner>.item>a>img, .carousel-inner>.item>img, .img-responsive, .thumbnail a>img, .thumbnail>img {
+    margin: 0 auto;
+}
+
+.clear-it {
+	clear:both;
+	}
+	
 .light {
   font-weight: 400;
 }
