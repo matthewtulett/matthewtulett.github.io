@@ -169,7 +169,7 @@ blockquote {
 @media (min-width: 768px) {
   .intro {
     height: 100%;
-    padding: 0;
+    padding: 200px 0;
   }
   .intro .intro-body .brand-heading {
     font-size: 100px;
